@@ -1,7 +1,7 @@
 """
 estereo.py
 
-Autor: Fulano Mengano Zutano
+Autor: Ricard Mula Cañameras
 
 Módulo para el manejo de los canales de una señal estéreo almacenada en ficheros
 WAVE PCM de 16 bits, y su codificación/decodificación para compatibilidad con
